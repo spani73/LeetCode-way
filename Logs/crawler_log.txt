@@ -1,0 +1,14 @@
+---------------Level $$$1$$$----------------
+https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) Easy
+https://leetcode.com/problems/two-sum-iii-data-structure-design/) Easy
+https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) Easy
+https://leetcode.com/problems/4sum/) Medium
+https://leetcode.com/problems/3sum/) Medium
+https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) Easy
+https://leetcode.com/problems/two-sum-less-than-k/) Easy
+https://leetcode.com/problems/max-number-of-k-sum-pairs/) Medium
+https://leetcode.com/problems/count-good-meals/) Medium
+https://leetcode.com/problems/subarray-sum-equals-k/) Medium
+https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) Medium
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) Medium
+Finish these first then move Forward
